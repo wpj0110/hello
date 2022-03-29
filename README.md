@@ -1,3 +1,7 @@
+My Notes:
+This youtube video helped me deploy this react app!
+https://www.youtube.com/watch?v=1Y-PqBH-htk
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
